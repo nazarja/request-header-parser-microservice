@@ -1,0 +1,17 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "'freeCodeCamp BackEnd Challange - Request Header Parser Microservice'",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sean Murphy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "engines": {
+    "node": "v4.4.5"
+  }
+}
